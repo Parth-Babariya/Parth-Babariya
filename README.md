@@ -1,5 +1,5 @@
 # 💫 About Me:
-M.Tech CS @ IIIT Hyderabad | Backend & Systems Engineer<br>Focused on building scalable, high-performance systems
+M.Tech CS @ IIIT Hyderabad<br>Focused on problem-solving, scalable systems, and core computer science.
 
 
 ## 🌐 Socials:
