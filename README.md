@@ -2,7 +2,6 @@
 M.Tech CS @ IIIT Hyderabad<br>
 Focused on building **scalable systems, distributed infrastructure, and AI-driven backends**.<br>
 Strong foundation in **Operating Systems, Concurrency, Networking, and Data Systems**.<br>
-GATE 2024: **97.14 percentile** | Solved **500+ DSA problems**
 
 ---
 
