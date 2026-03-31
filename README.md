@@ -1,56 +1,47 @@
 # 💫 About Me:
-M.Tech CS @ IIIT Hyderabad  
-Building **scalable systems, distributed infrastructure, and AI-driven backends**  
-
-- Strong in **Systems (OS, Concurrency, Networking) + Backend + AI Systems**
-- Experienced in **distributed systems, IR engines, and LLM pipelines**
-- Solved **500+ DSA problems** | GATE 2024: **97.14 percentile (AIR 133 PGEE)**  
+M.Tech CS @ IIIT Hyderabad<br>
+Focused on building **scalable systems, distributed infrastructure, and AI-driven backends**.<br>
+Strong foundation in **Operating Systems, Concurrency, Networking, and Data Systems**.<br>
+GATE 2024: **97.14 percentile** | Solved **500+ DSA problems**
 
 ---
 
-## ⚡ What I Do:
-- ⚙️ Design **high-performance backend & distributed systems**
-- 🧠 Build **LLM + RAG systems with cost/latency optimization**
-- 🔍 Work on **Information Retrieval & Search Systems at scale**
-- 🚀 Focus on **real-world systems (not just models)**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthbabariya2002) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parth.babariya@students.iiit.ac.in)
 
 ---
 
-## 🧠 Highlight Projects:
+# 💻 Tech Stack:
 
-### 🔹 Adaptive LLM Routing System
-- Processed **50K+ prompts on GPU**, reducing inference cost by **35%**
-- Built **cost-aware routing framework** using semantic similarity + throughput
-- Evaluated multiple LLMs using **BERTScore vs GPT-4o baseline**
+### 🧑‍💻 Languages
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🔹 Geometry SME AI Agent (RAG System)
-- Built production-grade **RAG pipeline over 2.5K+ chunks (19 textbooks)**
-- Designed **microservices architecture** with Elasticsearch + Redis caching
-- Enabled **adaptive tutoring, quiz generation, and content synthesis**
+### ⚙️ Systems & Backend
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 
-### 🔹 Decentralized File Distribution Network
-- Developed **C++ P2P system** with tracker failover & integrity verification
-- Achieved **~921 MB/s throughput** with concurrent piece-based downloads
-- Engineered **fault-tolerant recovery (~3s)** with session re-authentication
+### 🧠 AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 🔹 Custom Search Engine (IR System)
-- Built IR engine over **100K docs** with TF-IDF + compression
-- Achieved **25% higher throughput (275 QPS)** vs Elasticsearch
-- Implemented **Elias-Fano compression (3.97× size reduction)**
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ---
-
-## 💻 Tech Stack:
-**Languages:** C/C++, Python, Java, SQL  
-**Systems:** OS, Concurrency, Multithreading, Networking, Distributed Systems  
-**Backend:** gRPC, Microservices, TCP/IP, Socket Programming  
-**AI/ML:** PyTorch, Transformers, RAG, IR Systems  
-**Databases:** MySQL, MongoDB, Redis, Vector DBs (Pinecone, ChromaDB)  
-**Tools:** Linux, Docker, Kubernetes, Git, Hugging Face  
-
----
-
-## 🌐 Connect With Me:
-[LinkedIn](https://www.linkedin.com/in/parthbabariya2002)  
-Email: parth.babariya@students.iiit.ac.in  
-GitHub: https://github.com/Parth-Babariya
